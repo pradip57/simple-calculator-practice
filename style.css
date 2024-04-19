@@ -1,0 +1,39 @@
+body{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#raja{
+    position: relative;
+    border: 5px solid black;
+    padding: 60px;
+}
+
+#main{
+
+position: relative;
+
+
+}
+
+#buttons{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100px;
+    position: absolute;
+    left: 30px;
+}
+
+#input1{
+    width: 160px;
+}
+
+#input2{
+    width: 160px;
+}
+
+#output{
+    width: 160px;
+}
